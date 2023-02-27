@@ -17,3 +17,4 @@ Timers were used for interrupts to occur so that I can use encoders of motors. B
 - Bonus Task - [EYANTRA 2018 HOMECONIG BONUS TASK](https://youtu.be/nQdJZnS8RK4?t=85)
 
 ![bot image](https://github.com/dhanrajbhosale/EYantra-2018-Submissions/blob/15b9108fac98db6dd558c60d404e2e6209a8135d/bot.png?raw=true)
+![eyantra18_bot_ppt image](https://github.com/dhanrajbhosale/EYantra-2018-Submissions/blob/ab58ce958dced12d17483c3da385d0e8aa29d499/eyantra18_bot_ppt.png?raw=true)
