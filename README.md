@@ -5,11 +5,13 @@ EYanra tasks submissions. e-Yantra is a robotics outreach project competition, a
 - **Home-Coming**
 (Dec 2018 - Apr 2019)
 
-The task here was to recognize animals and their habitats from a grid of image using Transferred Learning model. I trained the Resnet model for my dataset of animals and habitats. Transferred Learning was done using pytorch.
+In this project, the task was to recognize animals and their habitats from a grid of images using a Transferred Learning model. The Resnet model was trained using pytorch on a dataset comprising animals and their respective habitats. 
 
-The data of recognized animals and their respective habitats was passed to the FIREBIRD V robot. A pick and place arm was designed using 3 standard servo motors. An arena was built which was same as the image. FIREBIRD V had to navigate to the places where Box with a particular animal name was kept and had to pick it and place it to its particular habitat place.
+The recognized animal data, along with their corresponding habitats, was then passed to the FIREBIRD V robot. A pick and place arm was designed using three standard servo motors. The FIREBIRD V robot was programmed to navigate to specific locations where boxes labeled with particular animal names were placed. The robot would pick up the box and accurately place it in the corresponding habitat location.
 
 Timers were used for interrupts to occur so that I can use encoders of motors. Black Line was followed using White Line Sensors.
+
+Overall, this project showcased the successful implementation of a Transferred Learning model to recognize animals and their habitats, as well as the integration of the FIREBIRD V robot with a pick and place arm for automated handling and placement of animal boxes.
 
 **Links:**
 
